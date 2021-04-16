@@ -16,8 +16,8 @@ Relacionando libros, autores y reviews.
 ## Hacking 
 
 ```cmd
-git clone https://github.com/gabrielba15/ 
-cd 
+git clone https://github.com/gabrielba15/graphql-relations.git
+cd graphql-relations
 npm install  
 npm run dev
 ```
